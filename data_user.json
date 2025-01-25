@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "ip": "125.160.152.153",
+    "isp": "AS7713 PT Telekomunikasi Indonesia",
+    "country": "ID",
+    "city": "Malang",
+    "os": "Windows 10",
+    "browser": {
+      "name": "Google Chrome",
+      "version": "132.0.0.0"
+    },
+    "battery": "100%"
+  }
+]
